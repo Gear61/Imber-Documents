@@ -1,6 +1,6 @@
 # PRIVACY NOTICE
 
-### Last updated March 02, 2021
+### Last updated May 24, 2021
 
 Thank you for choosing to be part of our community at Imber ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at imberapp@gmail.com.
 
