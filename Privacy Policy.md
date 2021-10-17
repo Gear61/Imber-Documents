@@ -1,10 +1,10 @@
 # PRIVACY NOTICE
 
-### Last updated May 24, 2021
+### Last updated October 17, 2021
 
 Thank you for choosing to be part of our community at Imber ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at imberapp@gmail.com.
 
-When you use our mobile application, use our Facebook application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
+When you use our mobile application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
 This privacy notice applies to all information collected through our Services (which, as described above, includes our App), as well as, any related services, sales, marketing or events.
 
@@ -31,7 +31,7 @@ Please read this privacy notice carefully as it will help you understand what we
 
 Information automatically collected
 
-In Short:  Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our App.
+In Short: Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our App.
 
 We automatically collect certain information when you visit, use or navigate the App. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our App and other technical information. This information is primarily needed to maintain the security and operation of our App, and for our internal analytics and reporting purposes.
 
@@ -43,18 +43,17 @@ Device Data. We collect device data such as information about your computer, pho
 
 ### Information collected through our App
 
-In Short:  We collect information regarding your mobile device, push notifications, and Facebook permissions when you use our App.
+In Short: We collect information regarding your mobile device and push notifications.
 
 If you use our App, we also collect the following information:
 - Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's social media accounts, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 - Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
-- Facebook Permissions. We by default access your Facebook basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, checkins, and likes, and you may choose to grant or deny us access to each individual permission. For more information regarding Facebook permissions, refer to the Facebook Permissions Reference page.
 
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
 ## 2. HOW DO WE USE YOUR INFORMATION?
 
-In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
+In Short: We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
 
 We use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 
@@ -64,7 +63,7 @@ For other business purposes. We may use your information for other business purp
 
 ## 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
-In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
+In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
 We may process or share your data that we hold based on the following legal basis:
 - Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.
@@ -78,23 +77,23 @@ More specifically, we may need to process your data or share your personal infor
 
 ## 4. HOW DO WE HANDLE YOUR SOCIAL LOGINS?     
 
-In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
+In Short: If you choose to register or log in to our services using a 3rd party account, we may have access to certain information about you.
 
-Our App offers you the ability to register and login using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, profile picture as well as other information you choose to make public on such social media platform. If you login using Facebook, we may also request access to other permissions related to your account, such as your friends, check-ins, and likes, and you may choose to grant or deny us access to each individual permission.
+Our App offers you the ability to register and login using your third-party account details (like your Facebook or Google logins). Where you choose to do this, we will receive certain profile information about you from that media provider. The profile information we receive may vary depending on the media provider concerned, but will often include your name, email address, profile picture as well as other information you choose to make public on such media platforms.
 
-We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant App. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
+We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant App. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party provider. We recommend that you review their privacy notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
 ## 5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?     
 
-In Short:  We may transfer, store, and process your information in countries other than your own.
+In Short: We may transfer, store, and process your information in countries other than your own.
 
-Our servers are located in. If you are accessing our App from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "WILL YOUR INFORMATION BE SHARED WITH ANYONE?" above), in and other countries.
+If you are accessing our App from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "WILL YOUR INFORMATION BE SHARED WITH ANYONE?" above), in and other countries.
 
 If you are a resident in the European Economic Area, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.
 
 ## 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than the period of time in which users have an account with us.
 
@@ -102,19 +101,19 @@ When we have no ongoing legitimate business need to process your personal inform
 
 ## 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-In Short:  We aim to protect your personal information through a system of organizational and technical security measures.
+In short: We aim to protect your personal information through a system of organizational and technical security measures.
 
 We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our App is at your own risk. You should only access the App within a secure environment.
 
 ## 8. DO WE COLLECT INFORMATION FROM MINORS?
 
-In Short:  We do not knowingly collect data from or market to children under 18 years of age.
+In Short: We do not knowingly collect data from or market to children under 18 years of age.
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at imberapp@gmail.com.
 
 ## 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
-In Short:  You may review, change, or terminate your account at any time.
+In Short: You may review, change, or terminate your account at any time.
  
 If you are a resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
 
@@ -138,7 +137,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
 ## 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
+In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
@@ -146,7 +145,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 ## 12. DO WE MAKE UPDATES TO THIS NOTICE?     
 
-In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.
+In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
